@@ -25,7 +25,6 @@ GET /api/messages — получение списка сообщений
         {
             "id": "1234",
             "sendTime": "date",
-            "userId": "id",
             "userName": "Алексей Дмитриев",
             "content": "content"
         },
